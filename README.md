@@ -38,11 +38,11 @@ The Files and Folders included are:
 index.html - The Index document for the website.
 
 Documents for different areas in the Website.
-post-CD.html
-post-CI.html
-post-CI-CD-Practice.html
-post-DevOps.html
-Post-Tools.html
+post-CD.html,
+post-CI.html,
+post-CI-CD-Practice.html,
+post-DevOps.html,
+Post-Tools.html,
 
 /img - The background image file for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
